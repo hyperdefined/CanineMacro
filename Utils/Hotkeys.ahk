@@ -1,0 +1,22 @@
+#Requires AutoHotkey v2.0
+
+global HOVERBOARD := "q"
+global BANANA := "t"
+global PINEAPPLE := "y"
+global MELON := "u"
+global APPLE := "k"
+global ORANGE := "p"
+global RAINBOW_FRUIT := "l"
+global MAGNET_FLAG := "m"
+global LUCKY_BLOCK := "b"
+global SPRINKLER := "h"
+global COIN_JAR := "v"
+global PINATA := "n"
+global COMET := "c"
+global ABILITY := "r"
+global INVENTORY := "f"
+
+global FORWARD := "w"
+global LEFT := "a"
+global BACK := "s"
+global RIGHT := "d"
