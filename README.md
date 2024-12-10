@@ -14,7 +14,7 @@ The macro runs on a "main loop," and does these things:
 9. Use ultimate.
 10. Use 1 of each item (comet, lucky block, pinata, coin jar).
 11. Move to egg, turn on auto hatching and charged.
-12. Hatch for ~15 minutes, restarting every 1 minute in case you run out of coins.
+12. Hatch for ~5 minutes, restarting every 1 minute in case you run out of coins.
 13. Move away from egg.
 14. Teleport back to void.
 

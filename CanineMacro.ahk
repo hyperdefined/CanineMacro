@@ -63,7 +63,7 @@ checkStatus() {
     if (disconnected) {
         disconnects:= disconnects + 1
         ToolTip "Disconnected, restarting"
-        Run "roblox://placeID=8737899170&linkCode=45750876096626997982328197322029"
+        Run "roblox://placeID=8737899170"
         Sleep 95000
     }
 }
@@ -78,7 +78,7 @@ hatch() {
     clickSpot(CORDS["MessageBox"]["Close"], 150)
 	
     ; Hatch for 15 minutes, each minute restarting the hatch
-	Loop 15 {
+	Loop 5 {
         ; Open the hatch menu
         Send "{e}"
         Sleep 300
