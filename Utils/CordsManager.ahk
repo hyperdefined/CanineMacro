@@ -66,6 +66,7 @@ setup() {
         CORDS["Game"]["TeleportButton"] := [173, 403]
         CORDS["Game"]["TeleportVoid"] := [423, 580]
         CORDS["Game"]["TeleportResult"] := [962, 355]
+        CORDS["Game"]["BestArea"] := [423, 383]
 
         ; First location in the free gifts window
 
