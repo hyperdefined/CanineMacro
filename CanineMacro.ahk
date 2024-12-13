@@ -257,7 +257,7 @@ clickSpot(CORDS, wait) {
 
 ; Click by x and y positions
 clickSpotPos(x, y, wait) {
-    Send "{Click, " x ", " y ", 1}"
+    SendEvent "{Click, " x ", " y ", 1}"
     Sleep wait
 }
 
